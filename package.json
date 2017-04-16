@@ -1,0 +1,37 @@
+{
+  "name": "thisiscool",
+  "version": "0.0.1",
+  "description": "CLI tool",
+  "license": "",
+  "repository": "",
+  "homepage": "",
+  "author": "John Tracy",
+  "main": "lib",
+  "bin": {
+    "thisispractice": "lib/cli.js"
+  },
+  "engines": {
+    "node": ">=6.7"
+  },
+  "scripts": {
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli"
+  ],
+  "dependencies": {
+    "async": "^2.1.4",
+    "chalk": "^1.0.0",
+    "cli-list": "^0.2.0",
+    "configstore": "^3.0.0",
+    "cross-spawn": "^5.0.1",
+    "figures": "^2.0.0",
+    "got": "^6.7.1",
+    "humanize-string": "^1.0.0",
+    "inquirer": "^3.0.1",
+    "meow": "^3.0.0"
+  }
+}
