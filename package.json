@@ -25,11 +25,13 @@
     "async": "^2.1.4",
     "chalk": "^1.0.0",
     "cli-list": "^0.2.0",
+    "command-line-args": "^4.0.2",
     "configstore": "^3.0.0",
     "cross-spawn": "^5.0.1",
     "figures": "^2.0.0",
     "got": "^6.7.1",
     "humanize-string": "^1.0.0",
+    "inquire": "^0.4.8",
     "inquirer": "^3.0.1",
     "meow": "^3.0.0",
     "path": "^0.12.7"
