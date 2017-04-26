@@ -8,7 +8,7 @@
   "author": "John Tracy",
   "main": "lib",
   "bin": {
-    "thisispractice": "lib/cli.js"
+    "lauren": "lib/cli.js"
   },
   "engines": {
     "node": ">=6.7"
